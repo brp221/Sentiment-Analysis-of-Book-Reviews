@@ -24,4 +24,3 @@ Model Fitness (Underfitting vs Overfitting)
     <!-- <img src="images/CNN_arch_2.jpeg?raw=true"/> -->
     <img src="https://github.com/brp221/Sentiment-Analysis-of-Book-Reviews/blob/master/ModelFitness_.png?raw=true"/>
 </p>
-
